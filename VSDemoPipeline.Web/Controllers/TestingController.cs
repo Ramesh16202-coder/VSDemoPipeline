@@ -10,7 +10,7 @@ namespace VSDemoPipeline.Web.Controllers
     {
         public IActionResult Index()
         {
-            return View("This is testing");
+            return View();
         }
     }
 }
